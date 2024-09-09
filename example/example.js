@@ -1,4 +1,3 @@
-const a = "fooo"
-const b = "bar"
-
-console.log("this is " + a + "this is", b)                                                       
+  console.log(1);
+  console.log("Hello");
+  console.log('Hi');
