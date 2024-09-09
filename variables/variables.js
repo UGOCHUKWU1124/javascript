@@ -3,8 +3,8 @@ var age = 20;
 console.log(name);
 console.log(age);
 
-/* this is used for multiple line comment*/
-//this is used for single line comment
+/*multiple line comment*/
+//single line comment
 
 var name = "scott",
   age = 20;
