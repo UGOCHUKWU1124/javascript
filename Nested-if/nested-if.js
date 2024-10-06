@@ -2,7 +2,7 @@
 /* secured marks>= 80 = A,60-79 = B,50-59 = C,40-49= D,
 35-39=E,ELSE ANYTHING LESS THAN 35 IS F*/
 
-var securedMarks = 70,
+var securedMarks = 75,
   grade;
 if (securedMarks >= 35)
 {
