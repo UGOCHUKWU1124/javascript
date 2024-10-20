@@ -1,6 +1,7 @@
 var a=10
 console.log(10);
-b = ++a;
+
+b = ++a; 
 console.log(a,b);//output:11,11(pre increment)
 
 a=10;

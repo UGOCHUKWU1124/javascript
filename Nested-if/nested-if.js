@@ -4,7 +4,7 @@
 
 var securedMarks = 75,
   grade;
-if (securedMarks >= 35)
+if (securedMarks >= 35) 
 {
   if (securedMarks >= 80) {
     grade = "A";
