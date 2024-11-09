@@ -1,7 +1,7 @@
 //functions with no arguments and no return value 
 //calling showCountry function into showCity function
 function showCity() 
-  // instead of saying let showCity = function() then return in the normal
+  // OR let showCity = function() 
 {
   console.log("New York");
   showCountry();
@@ -26,7 +26,7 @@ return n*n;
 // everything here basically is equal to cube(n)
 let cube = function(n)
 {
-    return square(n)*n;
+    return square(n)*n; //calling square function {square(n)} into the cube function
 } 
 let result = cube(5);
 console.log(result);
